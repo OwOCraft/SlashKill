@@ -1,0 +1,8 @@
+name: SlashKill
+version: '${project.version}'
+main: com.logzinga.slashkill.SlashKill
+api-version: 1.19
+commands:
+  kill:
+    description: Kills the player
+    usage: /<command>
